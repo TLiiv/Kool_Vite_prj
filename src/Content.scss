@@ -1,0 +1,9 @@
+$primaryColor:white;
+$secondaryColor:black;
+$font-stack: 'Courier New', Courier, monospace;
+
+.ct{
+    background-color: $primaryColor;
+    color:$secondaryColor;
+    font-family: $font-stack;
+}

@@ -1,0 +1,21 @@
+$primaryColor:teal;
+$secondaryColor:white;
+$mainFontSize:20px;
+
+body{
+    font-size: $mainFontSize;
+    color:$secondaryColor;
+    background-color: $primaryColor;
+}
+
+.intro{
+    margin-top: 50px;
+}
+.main{
+    margin-left: 10rem;
+    margin-right: 10rem;
+    
+}
+h1{
+    text-align: center;
+}
